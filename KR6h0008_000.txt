@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大集大虛空藏菩薩所問經
+#+DATE: 2015-08-30 20:06:20.956529
+#+PROPERTY: JUAN 0
