@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:20.497781
+#+DATE: 2015-08-30 20:06:21.949655
 #+TITLE: 大集大虛空藏菩薩所問經
 #+PROPERTY: CBETA_ID T13n0404
 #+PROPERTY: ID KR6h0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 404
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0008_T_002-0617b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《大集大虛空藏菩薩所問經》卷第¶
+《大集大虛空藏菩薩所問經》卷第¶
 二¶
 ¶
 開府儀同三司持進試鴻臚卿肅國¶
@@ -369,7 +368,7 @@
 「善男子！當知般若是清淨句，能摧惡覺¶
 故；是無變異句，自相清淨故；是無分別句，無¶
 可限齊故；是如實句，性真實故；是諦句，無動¶
-搖故；是誠實句，無虛誑故；是聰慧句，解諸縛¶
+瑤故；是誠實句，無虛誑故；是聰慧句，解諸縛¶
 故；是滿足句，聖者功德故；是通達句，善能觀¶
 察故；是第一義句，無所言說故；是平等句，無¶
 差別故；是堅牢句，不可壞故；是不動句，無所¶

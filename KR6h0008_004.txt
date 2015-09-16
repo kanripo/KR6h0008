@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:20.558125
+#+DATE: 2015-08-30 20:06:21.999998
 #+TITLE: 大集大虛空藏菩薩所問經
 #+PROPERTY: CBETA_ID T13n0404
 #+PROPERTY: ID KR6h0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 404
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0008_T_004-0626c> ¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大集大虛空藏菩薩所問經》卷第¶
+《大集大虛空藏菩薩所問經》卷第¶
 四¶
 ¶
 開府儀同三司特進試鴻臚卿肅國¶
@@ -110,7 +109,7 @@
 　安住辯才佛功德。¶
 　若知一切法理趣，
 　體性皆若於虛空；¶
-　無人、無命、無壽者，
+　無入、無命、無壽者，
 　彼即名持佛正法。
 <pb:KR6h0008_T_004-0627b>¶
 　有情本性皆圓寂，

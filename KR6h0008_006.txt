@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:20.627394
+#+DATE: 2015-08-30 20:06:22.049022
 #+TITLE: 大集大虛空藏菩薩所問經
 #+PROPERTY: CBETA_ID T13n0404
 #+PROPERTY: ID KR6h0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 404
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6h0008_T_006-0636a> ¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大集大虛空藏菩薩所問經》卷第¶
+《大集大虛空藏菩薩所問經》卷第¶
 六¶
 ¶
 開府儀同三司特進試鴻臚卿肅國¶
@@ -306,7 +305,7 @@
 虛空藏菩薩所說不退法印得生信解，必定¶
 當趣菩提道場。」¶
 
-爾時，阿難陀白佛言：「世尊！如是之花從何所¶
+爾時，訶難陀白佛言：「世尊！如是之花從何所¶
 來？」
 
 佛告阿難陀：「有一梵王名光莊嚴，為百¶
