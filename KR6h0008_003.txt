@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:06:21.977760
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:16
 #+TITLE: 大集大虛空藏菩薩所問經
 #+PROPERTY: CBETA_ID T13n0404
 #+PROPERTY: ID KR6h0008
